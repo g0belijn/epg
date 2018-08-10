@@ -2,1746 +2,6 @@
     "response": {
         "broadcasts": [
             {
-                "id": "vitaya-20180817-C266",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T05:40:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T06:35:00.000Z"
-                },
-                "episode": {
-                    "id": "257745056548527",
-                    "title": "Sturm der Liebe",
-                    "number": 8,
-                    "display": "8",
-                    "summary": "Aflevering 2604 van de Duitse soapserie rond de familie Saalfeld en het personeel van het Fürstenhof."
-                },
-                "season": {
-                    "number": 14,
-                    "display": "14"
-                },
-                "program": {
-                    "id": "256471263881527",
-                    "title": "Sturm der Liebe"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2C4",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T05:55:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T06:10:00.000Z"
-                },
-                "episode": {
-                    "id": "257082380961527",
-                    "title": "De Buurtpolitie - Extra",
-                    "number": 45,
-                    "display": "45",
-                    "summary": "Koen en Tineke van De Buurtpolitie praten tijdens hun koffiepauze over ditjes en datjes en mijmeren samen over hun gekste, grappigste of spannendste avonturen. "
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "257082369509527",
-                    "title": "De Buurtpolitie - Extra"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2C5",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T06:10:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T06:20:00.000Z"
-                },
-                "episode": {
-                    "id": "257178751884527",
-                    "title": "De Buurtpolitie - Extra",
-                    "number": 46,
-                    "display": "46",
-                    "summary": "Koen en Tineke van De Buurtpolitie praten tijdens hun koffiepauze over ditjes en datjes en mijmeren samen over hun gekste, grappigste of spannendste avonturen. "
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "257082369509527",
-                    "title": "De Buurtpolitie - Extra"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2C6",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T06:20:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T06:35:00.000Z"
-                },
-                "episode": {
-                    "id": "257431426546527",
-                    "title": "VLOGLAB",
-                    "number": 8,
-                    "display": "8",
-                    "summary": "In Vloglab krijgen vloggers de kans om de VTMKZOOM- en KADET-kijkers mee te nemen in hun creatieve wereld. Ze maken persoonlijke video's over hun hobby's, huisdieren en passies."
-                },
-                "season": {
-                    "number": 2,
-                    "display": "2"
-                },
-                "program": {
-                    "id": "257339976639527",
-                    "title": "VLOGLAB"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2C7",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T06:35:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T06:45:00.000Z"
-                },
-                "episode": {
-                    "id": "257386264528527",
-                    "title": "Home: Avonturen met Tip & Oh",
-                    "number": 35,
-                    "display": "35",
-                    "summary": "Animatiereeks over de alien Oh, die intrekt bij Tip en haar familie."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "257288570745527",
-                    "title": "Home: Avonturen met Tip & Oh"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C267",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T06:35:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T07:15:00.000Z"
-                },
-                "episode": {
-                    "id": "188128562528",
-                    "title": "All Saints",
-                    "number": 26,
-                    "display": "26",
-                    "summary": "Aflevering 26 (jaargang 11) van de Australische ziekenhuisreeks. "
-                },
-                "season": {
-                    "number": 11,
-                    "display": "11"
-                },
-                "program": {
-                    "id": "256468326509527",
-                    "title": "All Saints"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2C8",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T06:45:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T07:00:00.000Z"
-                },
-                "episode": {
-                    "id": "256445015416527",
-                    "title": "De Avonturen van K3",
-                    "number": 35,
-                    "display": "35",
-                    "summary": "Animatiereeks waarin de meiden van K3 op avontuur trekken. Met de stemmen van Hanne, Marthe en Klaasje."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256595788573527",
-                    "title": "De Avonturen van K3"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2C9",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T07:00:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T07:20:00.000Z"
-                },
-                "episode": {
-                    "id": "257367782577527",
-                    "title": "Lexie & Lotti",
-                    "number": 16,
-                    "display": "16",
-                    "summary": "Aflevering 16 over de tweelingzusjes Lexie en Lotti, die als rasechte detectives alle misdaden in hun stad oplossen. "
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "257367604807527",
-                    "title": "Lexie & Lotti"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C43D",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T07:15:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T07:30:00.000Z"
-                },
-                "episode": {
-                    "id": "vitaya_Geen Uitzending",
-                    "title": "Geen Uitzending",
-                    "number": null,
-                    "display": null,
-                    "summary": ""
-                },
-                "season": {},
-                "program": {}
-            },
-            {
-                "id": "vtm-20180817-VM067F2CA",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T07:20:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T07:45:00.000Z"
-                },
-                "episode": {
-                    "id": "256445014441527",
-                    "title": "Heidi",
-                    "number": 9,
-                    "display": "9",
-                    "summary": "Aflevering 9 van de vernieuwde Nederlandstalige kinderreeks in een 3D-jasje over het Zwitserse weesmeisje Heidi, die bij haar grootvader in de bergen opgroeit."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256463008600527",
-                    "title": "Heidi"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C268",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T07:30:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T08:25:00.000Z"
-                },
-                "episode": {
-                    "id": "257411782768527",
-                    "title": "Blind Getrouwd - Australië",
-                    "number": 29,
-                    "display": "29",
-                    "summary": "Aflevering 29 (jaargang 4) van de Australische realityreeks waarin een team van deskundigen singles aan elkaar koppelt, die met elkaar trouwen en daarna zeker een maand lang moeten samenleven."
-                },
-                "season": {
-                    "number": 4,
-                    "display": "4"
-                },
-                "program": {
-                    "id": "257163111733527",
-                    "title": "Blind Getrouwd - Australië"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F127",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T07:45:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T08:00:00.000Z"
-                },
-                "episode": {
-                    "id": "256240878195527",
-                    "title": "Qmusic",
-                    "number": null,
-                    "display": null,
-                    "summary": ""
-                },
-                "season": {},
-                "program": {}
-            },
-            {
-                "id": "vtm-20180817-VM067F102",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T08:00:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T10:15:00.000Z"
-                },
-                "episode": {
-                    "id": "vtm_Geen Uitzending",
-                    "title": "Geen Uitzending",
-                    "number": null,
-                    "display": null,
-                    "summary": ""
-                },
-                "season": {},
-                "program": {}
-            },
-            {
-                "id": "vitaya-20180817-C269",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T08:25:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T09:15:00.000Z"
-                },
-                "episode": {
-                    "id": "256716026118527",
-                    "title": "Don't Tell The Bride - Ireland ",
-                    "number": 1,
-                    "display": "1",
-                    "summary": "Aflevering 1 (jaargang 5) van de Ierse realityreeks waarin aanstaande bruiden de organisatie van hun huwelijk uit handen geven aan hun bruidegom."
-                },
-                "season": {
-                    "number": 5,
-                    "display": "5"
-                },
-                "program": {
-                    "id": "256528512281527",
-                    "title": "Don't Tell The Bride - Ireland "
-                }
-            },
-            {
-                "id": "vitaya-20180817-C26A",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T09:15:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T10:05:00.000Z"
-                },
-                "episode": {
-                    "id": "257740964955527",
-                    "title": "Dinner Date",
-                    "number": 6,
-                    "display": "6",
-                    "summary": "Aflevering 6 (jaargang 8) van het Britse datingprogramma waarin een vrijgezel drie dates uitkiest aan de hand van hun zelf opgesteld menu. Presentatie: Charlotte Hudson."
-                },
-                "season": {
-                    "number": 8,
-                    "display": "8"
-                },
-                "program": {
-                    "id": "256471159537527",
-                    "title": "Dinner Date"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C26B",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T10:05:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T10:55:00.000Z"
-                },
-                "episode": {
-                    "id": "256539865590527",
-                    "title": "Double Your House For Half The Money",
-                    "number": 5,
-                    "display": "5",
-                    "summary": "Aflevering 5 (jaargang 3) van de Britse realityreeks waarin Sarah Beeny telkens twee gezinnen helpt hun droomhuis te realiseren met een zo klein mogelijk budget. "
-                },
-                "season": {
-                    "number": 3,
-                    "display": "3"
-                },
-                "program": {
-                    "id": "256588090886527",
-                    "title": "Double Your House For Half The Money"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2CB",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T10:15:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T11:00:00.000Z"
-                },
-                "episode": {
-                    "id": "257490263998527",
-                    "title": "Met Vier in Bed",
-                    "number": 40,
-                    "display": "40",
-                    "summary": "Vier duo's verblijven een dag en een nacht in elkaars B&B en geven een beoordeling. Ieder koppel vertaalt zijn appreciatie in de vorm van bedjes, die worden uitgedeeld op een schaal van 1 tot 5. De B&B die het grootste aantal bedjes in de wacht sleept, wordt uitgeroepen tot winnaar van de week."
-                },
-                "season": {
-                    "number": 9,
-                    "display": "9"
-                },
-                "program": {
-                    "id": "256547903459527",
-                    "title": "Met Vier in Bed"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C26C",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T10:55:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T11:45:00.000Z"
-                },
-                "episode": {
-                    "id": "256418520714527",
-                    "title": "Blinging up Baby",
-                    "number": 3,
-                    "display": "3",
-                    "summary": "Aflevering 3  (jaargang 1) van de Britse realityreeks over ouders die hun kinderen omtoveren tot mini prinsen of prinsesjes."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256528511459527",
-                    "title": "Blinging up Baby"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067ED35",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T11:00:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T11:25:00.000Z"
-                },
-                "episode": {
-                    "id": "257375279468527",
-                    "title": "VTM NIEUWS",
-                    "number": 229,
-                    "display": "229",
-                    "summary": "Nieuws van de dag met achtergrondinformatie, gevolgd door uitgebreide sportverslaggeving. Presentatie: Stef Wauters, Dany Verstraeten, Birgit Van Mol, Elke Pattyn of Freek Braeckman."
-                },
-                "season": {
-                    "number": 2018,
-                    "display": "2018"
-                },
-                "program": {
-                    "id": "256547855317527",
-                    "title": "VTM NIEUWS"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2CC",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T11:25:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T11:35:00.000Z"
-                },
-                "episode": {
-                    "id": "257375348877527",
-                    "title": "Het Weer",
-                    "number": 229,
-                    "display": "229",
-                    "summary": ""
-                },
-                "season": {
-                    "number": 2018,
-                    "display": "2018"
-                },
-                "program": {
-                    "id": "256547857195527",
-                    "title": "Het Weer"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2CD",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T11:35:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T12:10:00.000Z"
-                },
-                "episode": {
-                    "id": "255988293830527",
-                    "title": "Familie",
-                    "number": 33,
-                    "display": "33",
-                    "summary": "Aflevering 4918 van de Vlaamse dagelijkse serie over het wel en wee van de familie Van den Bossche en hun entourage."
-                },
-                "season": {
-                    "number": 22,
-                    "display": "22"
-                },
-                "program": {
-                    "id": "256383171504527",
-                    "title": "Familie"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C26D",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T11:45:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T13:15:00.000Z"
-                },
-                "episode": {
-                    "id": "256360472952527",
-                    "title": "The Grim Sleeper",
-                    "number": null,
-                    "display": null,
-                    "summary": "Amerikaanse thriller van Stanley M. Brooks uit 2014."
-                },
-                "season": {},
-                "program": {}
-            },
-            {
-                "id": "vtm-20180817-VM067F128",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T12:10:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T13:25:00.000Z"
-                },
-                "episode": {
-                    "id": "135674549528",
-                    "title": "Spoed",
-                    "number": 1,
-                    "display": "1",
-                    "summary": "Aflevering 1 (jaargang 10) van de Vlaamse ziekenhuisserie."
-                },
-                "season": {
-                    "number": 10,
-                    "display": "10"
-                },
-                "program": {
-                    "id": "256431842765527",
-                    "title": "Spoed"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C25F",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T13:15:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T13:40:00.000Z"
-                },
-                "episode": {
-                    "id": "257029894552527",
-                    "title": "Choccywoccydoodah: Extra Slices",
-                    "number": 5,
-                    "display": "5",
-                    "summary": "Extra afleveringen van de reeks Choccywoccydoodah waarin de magische taartenwinkel in hartje Londen zijn deuren openzet."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "257029881994527",
-                    "title": "Choccywoccydoodah"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2CE",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T13:25:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T14:20:00.000Z"
-                },
-                "episode": {
-                    "id": "201846892528",
-                    "title": "Strong Medicine",
-                    "number": 11,
-                    "display": "11",
-                    "summary": "Aflevering 11 (jaargang 2) van de Amerikaanse ziekenhuisserie."
-                },
-                "season": {
-                    "number": 2,
-                    "display": "2"
-                },
-                "program": {
-                    "id": "256528531218527",
-                    "title": "Strong Medicine"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C26E",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T13:40:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T14:00:00.000Z"
-                },
-                "episode": {
-                    "id": "257055318884527",
-                    "title": "Love It or List It",
-                    "number": 1,
-                    "display": "1",
-                    "summary": "Aflevering van de Canadese realityshow over families die ontevreden zijn over hun huis. Designer Hilary Farr probeert hen te overtuigen om het huis op te knappen, makelaar David Visenti zoekt een ander, beter pand. Wat zullen de families doen: verbouwen of verhuizen? "
-                },
-                "season": {
-                    "number": 4,
-                    "display": "4"
-                },
-                "program": {
-                    "id": "257055249827527",
-                    "title": "Love It or List It"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C26F",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T14:00:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T14:55:00.000Z"
-                },
-                "episode": {
-                    "id": "256716026527527",
-                    "title": "Don't Tell The Bride - Ireland ",
-                    "number": 2,
-                    "display": "2",
-                    "summary": "Aflevering 2 (jaargang 5) van de Ierse realityreeks waarin aanstaande bruiden de organisatie van hun huwelijk uit handen geven aan hun bruidegom."
-                },
-                "season": {
-                    "number": 5,
-                    "display": "5"
-                },
-                "program": {
-                    "id": "256528512281527",
-                    "title": "Don't Tell The Bride - Ireland "
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2CF",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T14:20:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T14:45:00.000Z"
-                },
-                "episode": {
-                    "id": "255779785688528",
-                    "title": "Til Death",
-                    "number": 10,
-                    "display": "10",
-                    "summary": "Aflevering 10 (jaargang 4) van de Amerikaanse sitcom."
-                },
-                "season": {
-                    "number": 4,
-                    "display": "4"
-                },
-                "program": {
-                    "id": "256676850133527",
-                    "title": "Til Death"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2D0",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T14:45:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T15:45:00.000Z"
-                },
-                "episode": {
-                    "id": "255795085328528",
-                    "title": "De Rodenburgs",
-                    "number": 16,
-                    "display": "16",
-                    "summary": "Aflevering 16 (jaargang 2) van de Vlaamse dramareeks."
-                },
-                "season": {
-                    "number": 2,
-                    "display": "2"
-                },
-                "program": {
-                    "id": "256407561643527",
-                    "title": "De Rodenburgs"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C270",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T14:55:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T15:45:00.000Z"
-                },
-                "episode": {
-                    "id": "257740964974527",
-                    "title": "Dinner Date",
-                    "number": 7,
-                    "display": "7",
-                    "summary": "Aflevering 7 (jaargang 8) van het Britse datingprogramma waarin een vrijgezel drie dates uitkiest aan de hand van hun zelf opgesteld menu. Presentatie: Charlotte Hudson."
-                },
-                "season": {
-                    "number": 8,
-                    "display": "8"
-                },
-                "program": {
-                    "id": "256471159537527",
-                    "title": "Dinner Date"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067ED67",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T15:45:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T15:50:00.000Z"
-                },
-                "episode": {
-                    "id": "257375293285527",
-                    "title": "VTM NIEUWS",
-                    "number": 229,
-                    "display": "229",
-                    "summary": "Nieuws van de dag met achtergrondinformatie, gevolgd door uitgebreide sportverslaggeving. Presentatie: Stef Wauters, Dany Verstraeten, Birgit Van Mol, Elke Pattyn of Freek Braeckman."
-                },
-                "season": {
-                    "number": 2018,
-                    "display": "2018"
-                },
-                "program": {
-                    "id": "256547855317527",
-                    "title": "VTM NIEUWS"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C271",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T15:45:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T16:45:00.000Z"
-                },
-                "episode": {
-                    "id": "257745056567527",
-                    "title": "Sturm der Liebe",
-                    "number": 9,
-                    "display": "9",
-                    "summary": "Aflevering 2605 van de Duitse soapserie rond de familie Saalfeld en het personeel van het Fürstenhof."
-                },
-                "season": {
-                    "number": 14,
-                    "display": "14"
-                },
-                "program": {
-                    "id": "256471263881527",
-                    "title": "Sturm der Liebe"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2D1",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T15:50:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T15:55:00.000Z"
-                },
-                "episode": {
-                    "id": "257375366721527",
-                    "title": "Het Weer",
-                    "number": 229,
-                    "display": "229",
-                    "summary": ""
-                },
-                "season": {
-                    "number": 2018,
-                    "display": "2018"
-                },
-                "program": {
-                    "id": "256547857195527",
-                    "title": "Het Weer"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2D2",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T15:55:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T16:20:00.000Z"
-                },
-                "episode": {
-                    "id": "256259358836527",
-                    "title": "Border Security Canada",
-                    "number": 22,
-                    "display": "22",
-                    "summary": "Aflevering 22 (jaargang 2) van de realityreeks over het gevarieerde werk van douaniers en grensagenten in Canada."
-                },
-                "season": {
-                    "number": 2,
-                    "display": "2"
-                },
-                "program": {
-                    "id": "256472728156527",
-                    "title": "Border Security Canada"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F129",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T16:20:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T17:00:00.000Z"
-                },
-                "episode": {
-                    "id": "256151511613527",
-                    "title": "Echte Verhalen: De Kliniek",
-                    "number": 35,
-                    "display": "35",
-                    "summary": "Aflevering 35 van de Vlaamse scripted realityserie waarin bijzondere ziekenhuisverhalen centraal staan."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256547901203527",
-                    "title": "Echte Verhalen: De Kliniek"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C260",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T16:45:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T17:40:00.000Z"
-                },
-                "episode": {
-                    "id": "257162192503527",
-                    "title": "Kate's Wardrobe Secrets",
-                    "number": null,
-                    "display": null,
-                    "summary": "Documentaire over trendsetter en mode-icoon Kate Middleton."
-                },
-                "season": {},
-                "program": {}
-            },
-            {
-                "id": "vtm-20180817-VM067ED98",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T17:00:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T17:45:00.000Z"
-                },
-                "episode": {
-                    "id": "257375306049527",
-                    "title": "VTM NIEUWS",
-                    "number": 229,
-                    "display": "229",
-                    "summary": "Nieuws van de dag met achtergrondinformatie, gevolgd door uitgebreide sportverslaggeving. Presentatie: Stef Wauters, Dany Verstraeten, Birgit Van Mol, Elke Pattyn of Freek Braeckman."
-                },
-                "season": {
-                    "number": 2018,
-                    "display": "2018"
-                },
-                "program": {
-                    "id": "256547855317527",
-                    "title": "VTM NIEUWS"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C272",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T17:40:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T18:35:00.000Z"
-                },
-                "episode": {
-                    "id": "257201063925527",
-                    "title": "Ik Vertrek",
-                    "number": 3,
-                    "display": "3",
-                    "summary": "Aflevering 3 (jaargang 16) van de Nederlandse reeks rond gezinnen die hun geluk in het buitenland beproeven.\n\n"
-                },
-                "season": {
-                    "number": 16,
-                    "display": "16"
-                },
-                "program": {
-                    "id": "256511367201527",
-                    "title": "Ik Vertrek"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F2D3",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T17:45:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T17:55:00.000Z"
-                },
-                "episode": {
-                    "id": "257375386271527",
-                    "title": "Het Weer",
-                    "number": 229,
-                    "display": "229",
-                    "summary": ""
-                },
-                "season": {
-                    "number": 2018,
-                    "display": "2018"
-                },
-                "program": {
-                    "id": "256547857195527",
-                    "title": "Het Weer"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F12A",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T17:55:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T18:35:00.000Z"
-                },
-                "episode": {
-                    "id": "111819528",
-                    "title": "Lili en Marleen",
-                    "number": 12,
-                    "display": "12",
-                    "summary": "Aflevering 12 (jaargang 2) van de Vlaamse serie over de bewoners van 'De Lichttoren'."
-                },
-                "season": {
-                    "number": 1995,
-                    "display": "1995"
-                },
-                "program": {
-                    "id": "256576818220527",
-                    "title": "Lili en Marleen"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C262",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T18:35:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T20:05:00.000Z"
-                },
-                "episode": {
-                    "id": "257007670267527",
-                    "title": "The Brittany Murphy Story",
-                    "number": null,
-                    "display": null,
-                    "summary": "Amerikaans biografisch drama uit 2014 van Joe Menendez."
-                },
-                "season": {},
-                "program": {}
-            },
-            {
-                "id": "vtm-20180817-VM067F12B",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T18:35:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T20:40:00.000Z"
-                },
-                "episode": {
-                    "id": "256575715047527",
-                    "title": "Elysium",
-                    "number": null,
-                    "display": null,
-                    "summary": "Amerikaanse sciencefictionfilm van Neill Blomkamp uit 2013."
-                },
-                "season": {},
-                "program": {}
-            },
-            {
-                "id": "vitaya-20180817-C273",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T20:05:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T20:55:00.000Z"
-                },
-                "episode": {
-                    "id": "257373153160527",
-                    "title": "Geer & Goor Stevig Gebouwd",
-                    "number": 8,
-                    "display": "8",
-                    "summary": "Aflevering 8 (seizoen 1) van de Nederlandse realityreeks waarin Gerard en Gordon helpen met de (ver)bouw van een tehuis voor ouderen."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "257373102268527",
-                    "title": "Geer & Goor Stevig Gebouwd"
-                }
-            },
-            {
-                "id": "vtm-20180817-VM067F125",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T20:40:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T23:05:00.000Z"
-                },
-                "episode": {
-                    "id": "191448915527",
-                    "title": "Face/Off",
-                    "number": null,
-                    "display": null,
-                    "summary": "Amerikaans actie-misdaaddrama van John Woo uit 1997."
-                },
-                "season": {},
-                "program": {}
-            },
-            {
-                "id": "vitaya-20180817-C274",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T20:55:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T21:30:00.000Z"
-                },
-                "episode": {
-                    "id": "256432423300527",
-                    "title": "Smakelijk Daten",
-                    "number": 22,
-                    "display": "22",
-                    "summary": "Aflevering 22 (jaargang 1) van het programma waarin Vlaamse singles op zoek gaan naar een soulmate."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256576908852527",
-                    "title": "Smakelijk Daten"
-                }
-            },
-            {
-                "id": "vitaya-20180817-C275",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T21:30:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T22:20:00.000Z"
-                },
-                "episode": {
-                    "id": "257201063925527",
-                    "title": "Ik Vertrek",
-                    "number": 3,
-                    "display": "3",
-                    "summary": "Aflevering 3 (jaargang 16) van de Nederlandse reeks rond gezinnen die hun geluk in het buitenland beproeven.\n\n"
-                },
-                "season": {
-                    "number": 16,
-                    "display": "16"
-                },
-                "program": {
-                    "id": "256511367201527",
-                    "title": "Ik Vertrek"
-                }
-            },
-            {
-                "id": "vitaya-20180818-C43E",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T22:20:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T23:05:00.000Z"
-                },
-                "episode": {
-                    "id": "256418520714527",
-                    "title": "Blinging up Baby",
-                    "number": 3,
-                    "display": "3",
-                    "summary": "Aflevering 3  (jaargang 1) van de Britse realityreeks over ouders die hun kinderen omtoveren tot mini prinsen of prinsesjes."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256528511459527",
-                    "title": "Blinging up Baby"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F2D4",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T23:05:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T23:35:00.000Z"
-                },
-                "episode": {
-                    "id": "vtm_Geen Uitzending",
-                    "title": "Geen Uitzending",
-                    "number": null,
-                    "display": null,
-                    "summary": ""
-                },
-                "season": {},
-                "program": {}
-            },
-            {
-                "id": "vitaya-20180818-C263",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T23:05:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-17T23:50:00.000Z"
-                },
-                "episode": {
-                    "id": "188128562528",
-                    "title": "All Saints",
-                    "number": 26,
-                    "display": "26",
-                    "summary": "Aflevering 26 (jaargang 11) van de Australische ziekenhuisreeks. "
-                },
-                "season": {
-                    "number": 11,
-                    "display": "11"
-                },
-                "program": {
-                    "id": "256468326509527",
-                    "title": "All Saints"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F2D5",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-17T23:35:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T03:50:00.000Z"
-                },
-                "episode": {
-                    "id": "256240878195527",
-                    "title": "Qmusic",
-                    "number": null,
-                    "display": null,
-                    "summary": ""
-                },
-                "season": {},
-                "program": {}
-            },
-            {
-                "id": "vitaya-20180818-C43F",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-17T23:50:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T00:40:00.000Z"
-                },
-                "episode": {
-                    "id": "257745056567527",
-                    "title": "Sturm der Liebe",
-                    "number": 9,
-                    "display": "9",
-                    "summary": "Aflevering 2605 van de Duitse soapserie rond de familie Saalfeld en het personeel van het Fürstenhof."
-                },
-                "season": {
-                    "number": 14,
-                    "display": "14"
-                },
-                "program": {
-                    "id": "256471263881527",
-                    "title": "Sturm der Liebe"
-                }
-            },
-            {
-                "id": "vitaya-20180818-C440",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-18T00:40:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T01:20:00.000Z"
-                },
-                "episode": {
-                    "id": "256388444454527",
-                    "title": "Dr. Oz Show",
-                    "number": 76,
-                    "display": "76",
-                    "summary": "Aflevering (jaargang 4) van de medische talkshow met gastheer Dr. Mehmet Oz."
-                },
-                "season": {
-                    "number": 4,
-                    "display": "4"
-                },
-                "program": {
-                    "id": "256471167970527",
-                    "title": "Dr. Oz Show"
-                }
-            },
-            {
-                "id": "vitaya-20180818-C441",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-18T01:20:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T02:00:00.000Z"
-                },
-                "episode": {
-                    "id": "256388444475527",
-                    "title": "Dr. Oz Show",
-                    "number": 79,
-                    "display": "79",
-                    "summary": "Aflevering (jaargang 4) van de medische talkshow met gastheer Dr. Mehmet Oz."
-                },
-                "season": {
-                    "number": 4,
-                    "display": "4"
-                },
-                "program": {
-                    "id": "256471167970527",
-                    "title": "Dr. Oz Show"
-                }
-            },
-            {
-                "id": "vitaya-20180818-C442",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-18T02:00:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T02:40:00.000Z"
-                },
-                "episode": {
-                    "id": "256388444482527",
-                    "title": "Dr. Oz Show",
-                    "number": 80,
-                    "display": "80",
-                    "summary": "Aflevering (jaargang 4) van de medische talkshow met gastheer Dr. Mehmet Oz."
-                },
-                "season": {
-                    "number": 4,
-                    "display": "4"
-                },
-                "program": {
-                    "id": "256471167970527",
-                    "title": "Dr. Oz Show"
-                }
-            },
-            {
-                "id": "vitaya-20180818-C443",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-18T02:40:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T03:20:00.000Z"
-                },
-                "episode": {
-                    "id": "256388444489527",
-                    "title": "Dr. Oz Show",
-                    "number": 81,
-                    "display": "81",
-                    "summary": "Aflevering (jaargang 4) van de medische talkshow met gastheer Dr. Mehmet Oz."
-                },
-                "season": {
-                    "number": 4,
-                    "display": "4"
-                },
-                "program": {
-                    "id": "256471167970527",
-                    "title": "Dr. Oz Show"
-                }
-            },
-            {
-                "id": "vitaya-20180818-C444",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-18T03:20:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T04:00:00.000Z"
-                },
-                "episode": {
-                    "id": "256388444496527",
-                    "title": "Dr. Oz Show",
-                    "number": 82,
-                    "display": "82",
-                    "summary": "Aflevering (jaargang 4) van de medische talkshow met gastheer Dr. Mehmet Oz."
-                },
-                "season": {
-                    "number": 4,
-                    "display": "4"
-                },
-                "program": {
-                    "id": "256471167970527",
-                    "title": "Dr. Oz Show"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F437",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-18T03:50:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T03:55:00.000Z"
-                },
-                "episode": {
-                    "id": "6971715528",
-                    "title": "Kabouter Plop",
-                    "number": 25,
-                    "display": "25",
-                    "summary": "Kabouterverhalen voor de allerkleinsten."
-                },
-                "season": {
-                    "number": 1999,
-                    "display": "1999"
-                },
-                "program": {
-                    "id": "256574586814527",
-                    "title": "Kabouter Plop"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F438",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-18T03:55:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T04:10:00.000Z"
-                },
-                "episode": {
-                    "id": "256993473016527",
-                    "title": "Robocar Poli",
-                    "number": 5,
-                    "display": "5",
-                    "summary": "Het Robocar team bestaat uit een geweldig groepje hulpvoertuigen die altijd klaarstaan om buren en vrienden in Bezenstad te redden uit gevaarlijke situaties."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256993467093527",
-                    "title": "Robocar Poli"
-                }
-            },
-            {
-                "id": "vitaya-20180818-C276",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-18T04:00:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T04:20:00.000Z"
-                },
-                "episode": {
-                    "id": "257055318884527",
-                    "title": "Love It or List It",
-                    "number": 1,
-                    "display": "1",
-                    "summary": "Aflevering van de Canadese realityshow over families die ontevreden zijn over hun huis. Designer Hilary Farr probeert hen te overtuigen om het huis op te knappen, makelaar David Visenti zoekt een ander, beter pand. Wat zullen de families doen: verbouwen of verhuizen? "
-                },
-                "season": {
-                    "number": 4,
-                    "display": "4"
-                },
-                "program": {
-                    "id": "257055249827527",
-                    "title": "Love It or List It"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F439",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-18T04:10:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T04:20:00.000Z"
-                },
-                "episode": {
-                    "id": "257139515442527",
-                    "title": "Super Wings",
-                    "number": 31,
-                    "display": "31",
-                    "summary": "Het rode vliegtuig Jett bezorgt pakketjes aan kinderen over de hele wereld. Tijdens zijn reizen komt Jett onvoorziene uitdagingen tegen, die hij samen met het Super Wings Team oplost."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "257139500243527",
-                    "title": "Super Wings"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F3A5",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-18T04:20:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T04:35:00.000Z"
-                },
-                "episode": {
-                    "id": "257101106808527",
-                    "title": "PopPixie",
-                    "number": 31,
-                    "display": "31",
-                    "summary": "Animatieserie over de Pixies, elfjes en gnomen die in Elfenstad wonen."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "257101105103527",
-                    "title": "PopPixie"
-                }
-            },
-            {
-                "id": "vitaya-20180818-C536",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-18T04:20:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T04:55:00.000Z"
-                },
-                "episode": {
-                    "id": "256344107559527",
-                    "title": "Blind Getrouwd Denmark",
-                    "number": 8,
-                    "display": "8",
-                    "summary": "Aflevering 8 (jaargang 1) van de Deense realityreeks waarin een team van deskundigen singles aan elkaar koppelt, die met elkaar trouwen en daarna zeker een maand lang moeten samenleven."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256598896069527",
-                    "title": "Blind Getrouwd Denmark"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F43A",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-18T04:35:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T04:45:00.000Z"
-                },
-                "episode": {
-                    "id": "256825291912527",
-                    "title": "Thomas de Trein",
-                    "number": 5,
-                    "display": "5",
-                    "summary": "Aflevering 5 (seizoen 19) van de Britse animatiereeks over Thomas de Trein en zijn vrienden."
-                },
-                "season": {
-                    "number": 19,
-                    "display": "19"
-                },
-                "program": {
-                    "id": "256511401913527",
-                    "title": "Thomas de Trein"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F43B",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-18T04:45:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T05:00:00.000Z"
-                },
-                "episode": {
-                    "id": "256076954856527",
-                    "title": "Maya de Bij",
-                    "number": 61,
-                    "display": "61",
-                    "summary": "Aflevering van de 3D-animatiereeks over het nieuwsgierige bijtje Maya en haar kompanen."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256547919980527",
-                    "title": "Maya de Bij"
-                }
-            },
-            {
-                "id": "vitaya-20180818-C27B",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-18T04:55:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T05:25:00.000Z"
-                },
-                "episode": {
-                    "id": "256432423293527",
-                    "title": "Smakelijk Daten",
-                    "number": 21,
-                    "display": "21",
-                    "summary": "Aflevering 21 (jaargang 1) van het programma waarin Vlaamse singles op zoek gaan naar een soulmate."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256576908852527",
-                    "title": "Smakelijk Daten"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F43C",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-18T05:00:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T05:10:00.000Z"
-                },
-                "episode": {
-                    "id": "256076954868527",
-                    "title": "Maya de Bij",
-                    "number": 62,
-                    "display": "62",
-                    "summary": "Aflevering van de 3D-animatiereeks over het nieuwsgierige bijtje Maya en haar kompanen."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256547919980527",
-                    "title": "Maya de Bij"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F43D",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-18T05:10:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T05:30:00.000Z"
-                },
-                "episode": {
-                    "id": "257367782501527",
-                    "title": "Lexie & Lotti",
-                    "number": 12,
-                    "display": "12",
-                    "summary": "Aflevering 12 over de tweelingzusjes Lexie en Lotti, die als rasechte detectives alle misdaden in hun stad oplossen. "
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "257367604807527",
-                    "title": "Lexie & Lotti"
-                }
-            },
-            {
-                "id": "vitaya-20180818-C27C",
-                "channel": "vitaya",
-                "start": {
-                    "display": "2018-08-18T05:25:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T05:55:00.000Z"
-                },
-                "episode": {
-                    "id": "256432423300527",
-                    "title": "Smakelijk Daten",
-                    "number": 22,
-                    "display": "22",
-                    "summary": "Aflevering 22 (jaargang 1) van het programma waarin Vlaamse singles op zoek gaan naar een soulmate."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256576908852527",
-                    "title": "Smakelijk Daten"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F43E",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-18T05:30:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T05:35:00.000Z"
-                },
-                "episode": {
-                    "id": "255717183808528",
-                    "title": "Zeppe & Zikki",
-                    "number": 10,
-                    "display": "10",
-                    "summary": "Aflevering 10 (jaargang 2) van de animatie- en poppenspelreeks voor meer verkeersveiligheid."
-                },
-                "season": {
-                    "number": 2,
-                    "display": "2"
-                },
-                "program": {
-                    "id": "256545704998527",
-                    "title": "Zeppe & Zikki"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F43F",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-18T05:35:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T05:40:00.000Z"
-                },
-                "episode": {
-                    "id": "255717183832528",
-                    "title": "Zeppe & Zikki",
-                    "number": 11,
-                    "display": "11",
-                    "summary": "Aflevering 11 (jaargang 2) van de animatie- en poppenspelreeks voor meer verkeersveiligheid."
-                },
-                "season": {
-                    "number": 2,
-                    "display": "2"
-                },
-                "program": {
-                    "id": "256545704998527",
-                    "title": "Zeppe & Zikki"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F3A6",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-18T05:40:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T05:45:00.000Z"
-                },
-                "episode": {
-                    "id": "255717183856528",
-                    "title": "Zeppe & Zikki",
-                    "number": 12,
-                    "display": "12",
-                    "summary": "Aflevering 12 (jaargang 2) van de animatie- en poppenspelreeks voor meer verkeersveiligheid."
-                },
-                "season": {
-                    "number": 2,
-                    "display": "2"
-                },
-                "program": {
-                    "id": "256545704998527",
-                    "title": "Zeppe & Zikki"
-                }
-            },
-            {
-                "id": "vtm-20180818-VM067F440",
-                "channel": "vtm",
-                "start": {
-                    "display": "2018-08-18T05:45:00.000Z"
-                },
-                "stop": {
-                    "display": "2018-08-18T05:55:00.000Z"
-                },
-                "episode": {
-                    "id": "256445015380527",
-                    "title": "De Avonturen van K3",
-                    "number": 31,
-                    "display": "31",
-                    "summary": "Animatiereeks waarin de meiden van K3 op avontuur trekken. Met de stemmen van Hanne, Marthe en Klaasje."
-                },
-                "season": {
-                    "number": 1,
-                    "display": "1"
-                },
-                "program": {
-                    "id": "256595788573527",
-                    "title": "De Avonturen van K3"
-                }
-            },
-            {
                 "id": "vtm-20180818-VM067F441",
                 "channel": "vtm",
                 "start": {
@@ -1789,6 +49,1684 @@
                 "program": {
                     "id": "256676854423527",
                     "title": "The Three Day Nanny"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F442",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T06:10:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T06:25:00.000Z"
+                },
+                "episode": {
+                    "id": "257082380912527",
+                    "title": "De Buurtpolitie - Extra",
+                    "number": 38,
+                    "display": "38",
+                    "summary": "Koen en Tineke van De Buurtpolitie praten tijdens hun koffiepauze over ditjes en datjes en mijmeren samen over hun gekste, grappigste of spannendste avonturen. "
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "257082369509527",
+                    "title": "De Buurtpolitie - Extra"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F443",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T06:25:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T06:40:00.000Z"
+                },
+                "episode": {
+                    "id": "257431426466527",
+                    "title": "VLOGLAB",
+                    "number": 4,
+                    "display": "4",
+                    "summary": "In Vloglab krijgen vloggers de kans om de VTMKZOOM- en KADET-kijkers mee te nemen in hun creatieve wereld. Ze maken persoonlijke video's over hun hobby's, huisdieren en passies."
+                },
+                "season": {
+                    "number": 2,
+                    "display": "2"
+                },
+                "program": {
+                    "id": "257339976639527",
+                    "title": "VLOGLAB"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F444",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T06:40:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T07:00:00.000Z"
+                },
+                "episode": {
+                    "id": "257554393638527",
+                    "title": "Trollenjagers: Verhalen uit Arcadia",
+                    "number": 5,
+                    "display": "5",
+                    "summary": "Animatiereeks uit 2016 van Guillermo del Toro waarin Jim, een doodgewone jongen, een mysterieus amulet vindt en plots beschermer wordt van twee werelden. "
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "257554392546527",
+                    "title": "Trollenjagers: Verhalen uit Arcadia"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C537",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T06:45:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T07:00:00.000Z"
+                },
+                "episode": {
+                    "id": "vitaya_Geen Uitzending",
+                    "title": "Geen Uitzending",
+                    "number": null,
+                    "display": null,
+                    "summary": ""
+                },
+                "season": {},
+                "program": {}
+            },
+            {
+                "id": "vtm-20180818-VM067F445",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T07:00:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T07:10:00.000Z"
+                },
+                "episode": {
+                    "id": "257386264444527",
+                    "title": "Home: Avonturen met Tip & Oh",
+                    "number": 31,
+                    "display": "31",
+                    "summary": "Animatiereeks over de alien Oh, die intrekt bij Tip en haar familie."
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "257288570745527",
+                    "title": "Home: Avonturen met Tip & Oh"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C280",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T07:00:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T07:50:00.000Z"
+                },
+                "episode": {
+                    "id": "256941398813527",
+                    "title": "Seven Year Switch Australia",
+                    "number": 3,
+                    "display": "3",
+                    "summary": "Aflevering 3 van de realityreeks waarin getrouwde koppels, die in een sleur zijn beland, zich in een ultiem sociaal experiment wagen aan partnerruil. "
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256941395252527",
+                    "title": "Seven Year Switch Australia"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F3A7",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T07:10:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T07:35:00.000Z"
+                },
+                "episode": {
+                    "id": "256893562843527",
+                    "title": "Zak Storm",
+                    "number": 28,
+                    "display": "28",
+                    "summary": "Aflevering 28 (seizoen1) van de avontuurlijke animatiereeks over tiener Zak die tijdens een surfcompetitie in de bermudadriekhoek gezogen wordt. "
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256893559382527",
+                    "title": "Zak Storm"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F446",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T07:35:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T08:00:00.000Z"
+                },
+                "episode": {
+                    "id": "256893562852527",
+                    "title": "Zak Storm",
+                    "number": 29,
+                    "display": "29",
+                    "summary": "Aflevering 29 (seizoen1) van de avontuurlijke animatiereeks over tiener Zak die tijdens een surfcompetitie in de bermudadriekhoek gezogen wordt. "
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256893559382527",
+                    "title": "Zak Storm"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C281",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T07:50:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T08:35:00.000Z"
+                },
+                "episode": {
+                    "id": "256801894764527",
+                    "title": "How The Other Half Lives",
+                    "number": 3,
+                    "display": "3",
+                    "summary": "Aflevering 3 (Seizoen 2) van de Britse realityreeks waarin TV-koppel Eamonn Holmes en Ruth Langsford zich onderdompelen in de wereld van miljardairs. Hoe ziet het leven eruit als er geen limiet staat op geld? "
+                },
+                "season": {
+                    "number": 2,
+                    "display": "2"
+                },
+                "program": {
+                    "id": "256771062227527",
+                    "title": "How The Other Half Lives"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F12D",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T08:00:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T08:20:00.000Z"
+                },
+                "episode": {
+                    "id": "256240878195527",
+                    "title": "Qmusic",
+                    "number": null,
+                    "display": null,
+                    "summary": ""
+                },
+                "season": {},
+                "program": {}
+            },
+            {
+                "id": "vtm-20180818-VM067F3A8",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T08:20:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T09:35:00.000Z"
+                },
+                "episode": {
+                    "id": "vtm_Geen Uitzending",
+                    "title": "Geen Uitzending",
+                    "number": null,
+                    "display": null,
+                    "summary": ""
+                },
+                "season": {},
+                "program": {}
+            },
+            {
+                "id": "vitaya-20180818-C282",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T08:35:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T09:25:00.000Z"
+                },
+                "episode": {
+                    "id": "256369696937527",
+                    "title": "Divorce Hotel",
+                    "number": 3,
+                    "display": "3",
+                    "summary": "Aflevering 3 (jaargang 1) van de Nederlandse realityreeks waarin Goedele Liekens getrouwde stellen bijstaat die op het punt staan uit elkaar te gaan. De deelnemers hebben het besluit al genomen, maar lopen daarbij telkens tegen de verdeling van financiën en materiële zaken aan. Om een langdurige vechtscheiding te voorkomen, wordt er in één weekend onder begeleiding van een mediator, advocaten, fiscalisten en makelaars met verschillende sessies toegewerkt naar het gezamenlijke einddoel: een contract met daarin de afspraken."
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256587997670527",
+                    "title": "Divorce Hotel"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C283",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T09:25:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T09:45:00.000Z"
+                },
+                "episode": {
+                    "id": "256332609950527",
+                    "title": "Double Divas",
+                    "number": 11,
+                    "display": "11",
+                    "summary": "Aflevering 10 (jaargang 2) van de Amerikaanse realityreeks over het reilen en zeilen in lingeriewinkel LiviRae Lingerie."
+                },
+                "season": {
+                    "number": 2,
+                    "display": "2"
+                },
+                "program": {
+                    "id": "256471167207527",
+                    "title": "Double Divas"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F3AA",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T09:35:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T10:05:00.000Z"
+                },
+                "episode": {
+                    "id": "107684528",
+                    "title": "Bompa",
+                    "number": 14,
+                    "display": "14",
+                    "summary": "Aflevering van de Vlaamse komische reeks."
+                },
+                "season": {
+                    "number": 1992,
+                    "display": "1992"
+                },
+                "program": {
+                    "id": "256542713981527",
+                    "title": "Bompa"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C284",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T09:45:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T10:35:00.000Z"
+                },
+                "episode": {
+                    "id": "256893621297527",
+                    "title": "The Real Housewives of Dallas",
+                    "number": 3,
+                    "display": "3",
+                    "summary": "Aflevering 3 (jaargang 1) van de Amerikaanse realityreeks waarin we een blik werpen op het leven van LeeAnne Locken, Brandi Redmond, Tiffany Bolton, Cary Deuber en Stephanie Hollman. "
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256893421191527",
+                    "title": "The Real Housewives of Dallas"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F3A9",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T10:05:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T11:00:00.000Z"
+                },
+                "episode": {
+                    "id": "256868492856527",
+                    "title": "Murder She Wrote",
+                    "number": 12,
+                    "display": "12",
+                    "summary": "Aflevering 12 (jaargang 9) van de Amerikaanse detectiveserie."
+                },
+                "season": {
+                    "number": 9,
+                    "display": "9"
+                },
+                "program": {
+                    "id": "256576843399527",
+                    "title": "Murder She Wrote"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C285",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T10:35:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T11:25:00.000Z"
+                },
+                "episode": {
+                    "id": "256679050404527",
+                    "title": "Holland's Next Top Model",
+                    "number": 2,
+                    "display": "2",
+                    "summary": "Aflevering 2 (jaargang 8) van het realityprogramma waarin dertien mooie, jonge meiden strijden om de felbegeerde titel 'Hollands Next Top Model'. Presentatie: Anouk Smulders. Jury: Anouk Smulders, Amayzine-hoofdredacteur en modekenner May-Britt Mobach en internationaal fotograaf Dirk Kikstra."
+                },
+                "season": {
+                    "number": 8,
+                    "display": "8"
+                },
+                "program": {
+                    "id": "256471181773527",
+                    "title": "Holland's Next Top Model"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067ED37",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T11:00:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T11:25:00.000Z"
+                },
+                "episode": {
+                    "id": "257375279493527",
+                    "title": "VTM NIEUWS",
+                    "number": 230,
+                    "display": "230",
+                    "summary": "Nieuws van de dag met achtergrondinformatie, gevolgd door uitgebreide sportverslaggeving. Presentatie: Stef Wauters, Dany Verstraeten, Birgit Van Mol, Elke Pattyn of Freek Braeckman."
+                },
+                "season": {
+                    "number": 2018,
+                    "display": "2018"
+                },
+                "program": {
+                    "id": "256547855317527",
+                    "title": "VTM NIEUWS"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F447",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T11:25:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T11:35:00.000Z"
+                },
+                "episode": {
+                    "id": "257375348890527",
+                    "title": "Het Weer",
+                    "number": 230,
+                    "display": "230",
+                    "summary": ""
+                },
+                "season": {
+                    "number": 2018,
+                    "display": "2018"
+                },
+                "program": {
+                    "id": "256547857195527",
+                    "title": "Het Weer"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C286",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T11:25:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T12:10:00.000Z"
+                },
+                "episode": {
+                    "id": "256369685703527",
+                    "title": "Roy Donders",
+                    "number": 2,
+                    "display": "2",
+                    "summary": "Alflevering 2 (Seizoen 2) van de realityreeks over Tilburgse volkszanger en stylist Roy Donders.\n\n"
+                },
+                "season": {
+                    "number": 2,
+                    "display": "2"
+                },
+                "program": {
+                    "id": "256676854825527",
+                    "title": "Roy Donders"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F1FE",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T11:35:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T12:30:00.000Z"
+                },
+                "episode": {
+                    "id": "172836947528",
+                    "title": "The Guardian",
+                    "number": 20,
+                    "display": "20",
+                    "summary": "Aflevering 20 (jaargang 2) van de Amerikaanse dramareeks rond advocaat Nick Fallin. "
+                },
+                "season": {
+                    "number": 2,
+                    "display": "2"
+                },
+                "program": {
+                    "id": "256676851363527",
+                    "title": "The Guardian"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C287",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T12:10:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T13:40:00.000Z"
+                },
+                "episode": {
+                    "id": "256962734440527",
+                    "title": "I Married Who?",
+                    "number": null,
+                    "display": null,
+                    "summary": "Romantische komedie uit 2012 van Kevin Connor"
+                },
+                "season": {},
+                "program": {}
+            },
+            {
+                "id": "vtm-20180818-VM067F12F",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T12:30:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T12:55:00.000Z"
+                },
+                "episode": {
+                    "id": "257021893542527",
+                    "title": "Last Man Standing",
+                    "number": 18,
+                    "display": "18",
+                    "summary": "Aflevering 18 (jaargang 6) van de Amerikaanse komediereeks."
+                },
+                "season": {
+                    "number": 6,
+                    "display": "6"
+                },
+                "program": {
+                    "id": "256528531054527",
+                    "title": "Last Man Standing"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F1FD",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T12:55:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T13:30:00.000Z"
+                },
+                "episode": {
+                    "id": "257042976396527",
+                    "title": "Speechless",
+                    "number": 15,
+                    "display": "15",
+                    "summary": "Aflevering 15 (seizoen 1) van de Amerikaanse komische reeks. "
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "257042964260527",
+                    "title": "Speechless"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F135",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T13:30:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T15:00:00.000Z"
+                },
+                "episode": {
+                    "id": "15581343527",
+                    "title": "Dr. Dolittle 2",
+                    "number": null,
+                    "display": null,
+                    "summary": "Amerikaanse komedie uit 2001 van Steve Carr. "
+                },
+                "season": {},
+                "program": {}
+            },
+            {
+                "id": "vitaya-20180818-C288",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T13:40:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T14:25:00.000Z"
+                },
+                "episode": {
+                    "id": "256801894772527",
+                    "title": "How The Other Half Lives",
+                    "number": 4,
+                    "display": "4",
+                    "summary": "Aflevering 4 (Seizoen 2) van de Britse realityreeks waarin TV-koppel Eamonn Holmes en Ruth Langsford zich onderdompelen in de wereld van miljardairs. Hoe ziet het leven eruit als er geen limiet staat op geld? "
+                },
+                "season": {
+                    "number": 2,
+                    "display": "2"
+                },
+                "program": {
+                    "id": "256771062227527",
+                    "title": "How The Other Half Lives"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C289",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T14:25:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T14:55:00.000Z"
+                },
+                "episode": {
+                    "id": "257386898426527",
+                    "title": "Extreme Cake Makers",
+                    "number": 7,
+                    "display": "7",
+                    "summary": "Aflevering 7 (seizoen 1) van de realityreeks Extreme Cake Makers waarin er een blik wordt geworpen op een wereld waarin professionele bakkers en specialisten nieuwe manieren bedenken om hun zoetigheden te perfectioneren."
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "257386785184527",
+                    "title": "Extreme Cake Makers"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C47E",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T14:55:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T15:20:00.000Z"
+                },
+                "episode": {
+                    "id": "257055380071527",
+                    "title": "Love It or List It",
+                    "number": 2,
+                    "display": "2",
+                    "summary": "Aflevering van de Canadese realityshow over families die ontevreden zijn over hun huis. Designer Hilary Farr probeert hen te overtuigen om het huis op te knappen, makelaar David Visenti zoekt een ander, beter pand. Wat zullen de families doen: verbouwen of verhuizen? "
+                },
+                "season": {
+                    "number": 4,
+                    "display": "4"
+                },
+                "program": {
+                    "id": "257055249827527",
+                    "title": "Love It or List It"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067ED69",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T15:00:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T15:05:00.000Z"
+                },
+                "episode": {
+                    "id": "257375293310527",
+                    "title": "VTM NIEUWS",
+                    "number": 230,
+                    "display": "230",
+                    "summary": "Nieuws van de dag met achtergrondinformatie, gevolgd door uitgebreide sportverslaggeving. Presentatie: Stef Wauters, Dany Verstraeten, Birgit Van Mol, Elke Pattyn of Freek Braeckman."
+                },
+                "season": {
+                    "number": 2018,
+                    "display": "2018"
+                },
+                "program": {
+                    "id": "256547855317527",
+                    "title": "VTM NIEUWS"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F12E",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T15:05:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T15:10:00.000Z"
+                },
+                "episode": {
+                    "id": "257375366734527",
+                    "title": "Het Weer",
+                    "number": 230,
+                    "display": "230",
+                    "summary": ""
+                },
+                "season": {
+                    "number": 2018,
+                    "display": "2018"
+                },
+                "program": {
+                    "id": "256547857195527",
+                    "title": "Het Weer"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F4DB",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T15:10:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T15:20:00.000Z"
+                },
+                "episode": {
+                    "id": "256387190550527",
+                    "title": "America's Funniest Home Videos",
+                    "number": 13,
+                    "display": "13",
+                    "summary": "Aflevering van de Amerikaanse show rond grappige, waargebeurde videobeelden, ingestuurd door Amerikaanse kijkers. \n"
+                },
+                "season": {
+                    "number": 23,
+                    "display": "23"
+                },
+                "program": {
+                    "id": "256547897482527",
+                    "title": "America's Funniest Home Videos"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C27E",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T15:20:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T15:55:00.000Z"
+                },
+                "episode": {
+                    "id": "256084582179527",
+                    "title": "De Make-Under",
+                    "number": 5,
+                    "display": "5",
+                    "summary": "Aflevering 5 (jaargang 1) van het Vlaamse make-underprogramma met gastvrouw Heidi Van Tielen."
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256575862492527",
+                    "title": "De Make-Under"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F130",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T15:20:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T17:00:00.000Z"
+                },
+                "episode": {
+                    "id": "257561574060527",
+                    "title": "Brave",
+                    "number": null,
+                    "display": null,
+                    "summary": "! Vlaamse versie !\nAmerikaanse animatiefilm uit 2012 van Mark Andrews, Brenda Chapman en Steve Purcell."
+                },
+                "season": {},
+                "program": {}
+            },
+            {
+                "id": "vitaya-20180818-C28A",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T15:55:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T16:45:00.000Z"
+                },
+                "episode": {
+                    "id": "256915046181527",
+                    "title": "Million Pound Properties",
+                    "number": 4,
+                    "display": "4",
+                    "summary": "Documentairereeks over de vastgoedmarkt in de UK. "
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256915040581527",
+                    "title": "Million Pound Properties"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C28B",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T16:45:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T17:35:00.000Z"
+                },
+                "episode": {
+                    "id": "255911217768527",
+                    "title": "Danni Lowinski",
+                    "number": 12,
+                    "display": "12",
+                    "summary": "Aflevering 12 (jaargang 1) van de Vlaamse fictiereeks."
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256404119004527",
+                    "title": "Danni Lowinski"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F448",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T17:00:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T17:40:00.000Z"
+                },
+                "episode": {
+                    "id": "257375306074527",
+                    "title": "VTM NIEUWS",
+                    "number": 230,
+                    "display": "230",
+                    "summary": "Nieuws van de dag met achtergrondinformatie, gevolgd door uitgebreide sportverslaggeving. Presentatie: Stef Wauters, Dany Verstraeten, Birgit Van Mol, Elke Pattyn of Freek Braeckman."
+                },
+                "season": {
+                    "number": 2018,
+                    "display": "2018"
+                },
+                "program": {
+                    "id": "256547855317527",
+                    "title": "VTM NIEUWS"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C28C",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T17:35:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T18:25:00.000Z"
+                },
+                "episode": {
+                    "id": "257588696321527",
+                    "title": "Curvy Supermodel",
+                    "number": 7,
+                    "display": "7",
+                    "summary": "Aflevering 7 (seizoen 1) van het Nederlandse realityprogramma over de zoektocht naar het nieuwe curvy topmodel van Nederland.\n"
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "257588444949527",
+                    "title": "Curvy Supermodel"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F449",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T17:40:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T17:50:00.000Z"
+                },
+                "episode": {
+                    "id": "257375386284527",
+                    "title": "Het Weer",
+                    "number": 230,
+                    "display": "230",
+                    "summary": ""
+                },
+                "season": {
+                    "number": 2018,
+                    "display": "2018"
+                },
+                "program": {
+                    "id": "256547857195527",
+                    "title": "Het Weer"
+                }
+            },
+            {
+                "id": "vtm-20180818-VM067F131",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T17:50:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T18:55:00.000Z"
+                },
+                "episode": {
+                    "id": "256336164539527",
+                    "title": "Lang Leve",
+                    "number": 3,
+                    "display": "3",
+                    "summary": "Aflevering 3 (jaargang 2) van de entertainment show waarin Jonas Van Geel 10 iconische landgenoten van wie hij fan is confronteert met een ludieke film van hun leven. "
+                },
+                "season": {
+                    "number": 2,
+                    "display": "2"
+                },
+                "program": {
+                    "id": "256403648386527",
+                    "title": "Lang Leve"
+                }
+            },
+            {
+                "id": "vitaya-20180818-C278",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T18:25:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T20:20:00.000Z"
+                },
+                "episode": {
+                    "id": "256332598788527",
+                    "title": "Return To Zero",
+                    "number": null,
+                    "display": null,
+                    "summary": "Amerikaans drama uit 2014 van Sean Hanish. "
+                },
+                "season": {},
+                "program": {}
+            },
+            {
+                "id": "vtm-20180818-VM067F132",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T18:55:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T20:55:00.000Z"
+                },
+                "episode": {
+                    "id": "257325453447527",
+                    "title": "Zootopia",
+                    "number": null,
+                    "display": null,
+                    "summary": "! Winnaar van een Oscar ! \nAmerikaanse animatiefilm uit 2016 van Byron Howard, Rich Moore en Jared Bush."
+                },
+                "season": {},
+                "program": {}
+            },
+            {
+                "id": "vitaya-20180818-C28D",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T20:20:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T22:05:00.000Z"
+                },
+                "episode": {
+                    "id": "256781246070527",
+                    "title": "Frankie & Alice",
+                    "number": null,
+                    "display": null,
+                    "summary": "! Genomineerd voor een Golden Globe !\nCanadees biografisch drama uit 2010 van Geoffrey Sax. "
+                },
+                "season": {},
+                "program": {}
+            },
+            {
+                "id": "vtm-20180818-VM067F133",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-18T20:55:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T00:15:00.000Z"
+                },
+                "episode": {
+                    "id": "199077778527",
+                    "title": "The Green Mile",
+                    "number": null,
+                    "display": null,
+                    "summary": "Amerikaans drama van Frank Darabont uit 1999."
+                },
+                "season": {},
+                "program": {}
+            },
+            {
+                "id": "vitaya-20180819-C28E",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T22:05:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T22:30:00.000Z"
+                },
+                "episode": {
+                    "id": "256332609950527",
+                    "title": "Double Divas",
+                    "number": 11,
+                    "display": "11",
+                    "summary": "Aflevering 10 (jaargang 2) van de Amerikaanse realityreeks over het reilen en zeilen in lingeriewinkel LiviRae Lingerie."
+                },
+                "season": {
+                    "number": 2,
+                    "display": "2"
+                },
+                "program": {
+                    "id": "256471167207527",
+                    "title": "Double Divas"
+                }
+            },
+            {
+                "id": "vitaya-20180819-C28F",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T22:30:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T22:55:00.000Z"
+                },
+                "episode": {
+                    "id": "257055380071527",
+                    "title": "Love It or List It",
+                    "number": 2,
+                    "display": "2",
+                    "summary": "Aflevering van de Canadese realityshow over families die ontevreden zijn over hun huis. Designer Hilary Farr probeert hen te overtuigen om het huis op te knappen, makelaar David Visenti zoekt een ander, beter pand. Wat zullen de families doen: verbouwen of verhuizen? "
+                },
+                "season": {
+                    "number": 4,
+                    "display": "4"
+                },
+                "program": {
+                    "id": "257055249827527",
+                    "title": "Love It or List It"
+                }
+            },
+            {
+                "id": "vitaya-20180819-C27D",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T22:55:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-18T23:35:00.000Z"
+                },
+                "episode": {
+                    "id": "256779164792527",
+                    "title": "Girlfriends' Guide to Divorce",
+                    "number": 13,
+                    "display": "13",
+                    "summary": "Aflevering 13 (jaargang 2) van de Amerikaanse sitcom uit 2015, gebaseerd op de bestsellers van Vicky Iovine. \n"
+                },
+                "season": {
+                    "number": 2,
+                    "display": "2"
+                },
+                "program": {
+                    "id": "256589829096527",
+                    "title": "Girlfriends' Guide to Divorce"
+                }
+            },
+            {
+                "id": "vitaya-20180819-C538",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-18T23:35:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T00:05:00.000Z"
+                },
+                "episode": {
+                    "id": "256084582179527",
+                    "title": "De Make-Under",
+                    "number": 5,
+                    "display": "5",
+                    "summary": "Aflevering 5 (jaargang 1) van het Vlaamse make-underprogramma met gastvrouw Heidi Van Tielen."
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256575862492527",
+                    "title": "De Make-Under"
+                }
+            },
+            {
+                "id": "vitaya-20180819-C539",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-19T00:05:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T00:55:00.000Z"
+                },
+                "episode": {
+                    "id": "257745056491527",
+                    "title": "Sturm der Liebe",
+                    "number": 5,
+                    "display": "5",
+                    "summary": "Aflevering 2601 van de Duitse soapserie rond de familie Saalfeld en het personeel van het Fürstenhof."
+                },
+                "season": {
+                    "number": 14,
+                    "display": "14"
+                },
+                "program": {
+                    "id": "256471263881527",
+                    "title": "Sturm der Liebe"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F44A",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T00:15:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T00:45:00.000Z"
+                },
+                "episode": {
+                    "id": "vtm_Geen Uitzending",
+                    "title": "Geen Uitzending",
+                    "number": null,
+                    "display": null,
+                    "summary": ""
+                },
+                "season": {},
+                "program": {}
+            },
+            {
+                "id": "vtm-20180819-VM067F44B",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T00:45:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T03:50:00.000Z"
+                },
+                "episode": {
+                    "id": "256240878195527",
+                    "title": "Qmusic",
+                    "number": null,
+                    "display": null,
+                    "summary": ""
+                },
+                "season": {},
+                "program": {}
+            },
+            {
+                "id": "vitaya-20180819-C53A",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-19T00:55:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T01:40:00.000Z"
+                },
+                "episode": {
+                    "id": "257745056510527",
+                    "title": "Sturm der Liebe",
+                    "number": 6,
+                    "display": "6",
+                    "summary": "Aflevering 2602 van de Duitse soapserie rond de familie Saalfeld en het personeel van het Fürstenhof."
+                },
+                "season": {
+                    "number": 14,
+                    "display": "14"
+                },
+                "program": {
+                    "id": "256471263881527",
+                    "title": "Sturm der Liebe"
+                }
+            },
+            {
+                "id": "vitaya-20180819-C53B",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-19T01:40:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T02:25:00.000Z"
+                },
+                "episode": {
+                    "id": "257745056529527",
+                    "title": "Sturm der Liebe",
+                    "number": 7,
+                    "display": "7",
+                    "summary": "Aflevering 2603 van de Duitse soapserie rond de familie Saalfeld en het personeel van het Fürstenhof."
+                },
+                "season": {
+                    "number": 14,
+                    "display": "14"
+                },
+                "program": {
+                    "id": "256471263881527",
+                    "title": "Sturm der Liebe"
+                }
+            },
+            {
+                "id": "vitaya-20180819-C53C",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-19T02:25:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T03:10:00.000Z"
+                },
+                "episode": {
+                    "id": "257745056548527",
+                    "title": "Sturm der Liebe",
+                    "number": 8,
+                    "display": "8",
+                    "summary": "Aflevering 2604 van de Duitse soapserie rond de familie Saalfeld en het personeel van het Fürstenhof."
+                },
+                "season": {
+                    "number": 14,
+                    "display": "14"
+                },
+                "program": {
+                    "id": "256471263881527",
+                    "title": "Sturm der Liebe"
+                }
+            },
+            {
+                "id": "vitaya-20180819-C53D",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-19T03:10:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T04:00:00.000Z"
+                },
+                "episode": {
+                    "id": "257745056567527",
+                    "title": "Sturm der Liebe",
+                    "number": 9,
+                    "display": "9",
+                    "summary": "Aflevering 2605 van de Duitse soapserie rond de familie Saalfeld en het personeel van het Fürstenhof."
+                },
+                "season": {
+                    "number": 14,
+                    "display": "14"
+                },
+                "program": {
+                    "id": "256471263881527",
+                    "title": "Sturm der Liebe"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F44E",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T03:50:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T03:55:00.000Z"
+                },
+                "episode": {
+                    "id": "6971719528",
+                    "title": "Kabouter Plop",
+                    "number": 26,
+                    "display": "26",
+                    "summary": "Kabouterverhalen voor de allerkleinsten."
+                },
+                "season": {
+                    "number": 1999,
+                    "display": "1999"
+                },
+                "program": {
+                    "id": "256574586814527",
+                    "title": "Kabouter Plop"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F44F",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T03:55:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T04:10:00.000Z"
+                },
+                "episode": {
+                    "id": "256993473025527",
+                    "title": "Robocar Poli",
+                    "number": 6,
+                    "display": "6",
+                    "summary": "Het Robocar team bestaat uit een geweldig groepje hulpvoertuigen die altijd klaarstaan om buren en vrienden in Bezenstad te redden uit gevaarlijke situaties."
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256993467093527",
+                    "title": "Robocar Poli"
+                }
+            },
+            {
+                "id": "vitaya-20180819-C2E9",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-19T04:00:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T04:20:00.000Z"
+                },
+                "episode": {
+                    "id": "257055380071527",
+                    "title": "Love It or List It",
+                    "number": 2,
+                    "display": "2",
+                    "summary": "Aflevering van de Canadese realityshow over families die ontevreden zijn over hun huis. Designer Hilary Farr probeert hen te overtuigen om het huis op te knappen, makelaar David Visenti zoekt een ander, beter pand. Wat zullen de families doen: verbouwen of verhuizen? "
+                },
+                "season": {
+                    "number": 4,
+                    "display": "4"
+                },
+                "program": {
+                    "id": "257055249827527",
+                    "title": "Love It or List It"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F450",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T04:10:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T04:20:00.000Z"
+                },
+                "episode": {
+                    "id": "257139515451527",
+                    "title": "Super Wings",
+                    "number": 32,
+                    "display": "32",
+                    "summary": "Het rode vliegtuig Jett bezorgt pakketjes aan kinderen over de hele wereld. Tijdens zijn reizen komt Jett onvoorziene uitdagingen tegen, die hij samen met het Super Wings Team oplost."
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "257139500243527",
+                    "title": "Super Wings"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F451",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T04:20:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T04:35:00.000Z"
+                },
+                "episode": {
+                    "id": "257101106816527",
+                    "title": "PopPixie",
+                    "number": 32,
+                    "display": "32",
+                    "summary": "Animatieserie over de Pixies, elfjes en gnomen die in Elfenstad wonen."
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "257101105103527",
+                    "title": "PopPixie"
+                }
+            },
+            {
+                "id": "vitaya-20180819-C2F1",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-19T04:20:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T05:10:00.000Z"
+                },
+                "episode": {
+                    "id": "256679050404527",
+                    "title": "Holland's Next Top Model",
+                    "number": 2,
+                    "display": "2",
+                    "summary": "Aflevering 2 (jaargang 8) van het realityprogramma waarin dertien mooie, jonge meiden strijden om de felbegeerde titel 'Hollands Next Top Model'. Presentatie: Anouk Smulders. Jury: Anouk Smulders, Amayzine-hoofdredacteur en modekenner May-Britt Mobach en internationaal fotograaf Dirk Kikstra."
+                },
+                "season": {
+                    "number": 8,
+                    "display": "8"
+                },
+                "program": {
+                    "id": "256471181773527",
+                    "title": "Holland's Next Top Model"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F452",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T04:35:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T04:45:00.000Z"
+                },
+                "episode": {
+                    "id": "256825291920527",
+                    "title": "Thomas de Trein",
+                    "number": 6,
+                    "display": "6",
+                    "summary": "Aflevering 6 (seizoen 19) van de Britse animatiereeks over Thomas de Trein en zijn vrienden."
+                },
+                "season": {
+                    "number": 19,
+                    "display": "19"
+                },
+                "program": {
+                    "id": "256511401913527",
+                    "title": "Thomas de Trein"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F453",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T04:45:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T04:55:00.000Z"
+                },
+                "episode": {
+                    "id": "256076954880527",
+                    "title": "Maya de Bij",
+                    "number": 63,
+                    "display": "63",
+                    "summary": "Aflevering van de 3D-animatiereeks over het nieuwsgierige bijtje Maya en haar kompanen."
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256547919980527",
+                    "title": "Maya de Bij"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F454",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T04:55:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T05:10:00.000Z"
+                },
+                "episode": {
+                    "id": "256076954892527",
+                    "title": "Maya de Bij",
+                    "number": 64,
+                    "display": "64",
+                    "summary": "Aflevering van de 3D-animatiereeks over het nieuwsgierige bijtje Maya en haar kompanen."
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256547919980527",
+                    "title": "Maya de Bij"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F455",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T05:10:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T05:30:00.000Z"
+                },
+                "episode": {
+                    "id": "257367782520527",
+                    "title": "Lexie & Lotti",
+                    "number": 13,
+                    "display": "13",
+                    "summary": "Aflevering 13 over de tweelingzusjes Lexie en Lotti, die als rasechte detectives alle misdaden in hun stad oplossen. "
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "257367604807527",
+                    "title": "Lexie & Lotti"
+                }
+            },
+            {
+                "id": "vitaya-20180819-C2F2",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-19T05:10:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T05:55:00.000Z"
+                },
+                "episode": {
+                    "id": "256736146760527",
+                    "title": "Top Chef",
+                    "number": 7,
+                    "display": "7",
+                    "summary": "Aflevering 7 (jaargang 11) van het Amerikaanse realityprogramma waarin twaalf professionele koks strijden om de titel van 'Top Chef'. "
+                },
+                "season": {
+                    "number": 11,
+                    "display": "11"
+                },
+                "program": {
+                    "id": "256528528911527",
+                    "title": "Top Chef"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F456",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T05:30:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T05:35:00.000Z"
+                },
+                "episode": {
+                    "id": "255753443118528",
+                    "title": "Zeppe & Zikki",
+                    "number": 1,
+                    "display": "1",
+                    "summary": "Aflevering 1 (jaargang 3) van de animatie- en poppenspelreeks voor meer verkeersveiligheid."
+                },
+                "season": {
+                    "number": 3,
+                    "display": "3"
+                },
+                "program": {
+                    "id": "256545704998527",
+                    "title": "Zeppe & Zikki"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F3AE",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T05:35:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T05:40:00.000Z"
+                },
+                "episode": {
+                    "id": "255753443166528",
+                    "title": "Zeppe & Zikki",
+                    "number": 3,
+                    "display": "3",
+                    "summary": "Aflevering 3 (jaargang 3) van de animatie- en poppenspelreeks voor meer verkeersveiligheid."
+                },
+                "season": {
+                    "number": 3,
+                    "display": "3"
+                },
+                "program": {
+                    "id": "256545704998527",
+                    "title": "Zeppe & Zikki"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F457",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T05:40:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T05:55:00.000Z"
+                },
+                "episode": {
+                    "id": "256445015389527",
+                    "title": "De Avonturen van K3",
+                    "number": 32,
+                    "display": "32",
+                    "summary": "Animatiereeks waarin de meiden van K3 op avontuur trekken. Met de stemmen van Hanne, Marthe en Klaasje."
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256595788573527",
+                    "title": "De Avonturen van K3"
+                }
+            },
+            {
+                "id": "vtm-20180819-VM067F458",
+                "channel": "vtm",
+                "start": {
+                    "display": "2018-08-19T05:55:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T06:10:00.000Z"
+                },
+                "episode": {
+                    "id": "257082380919527",
+                    "title": "De Buurtpolitie - Extra",
+                    "number": 39,
+                    "display": "39",
+                    "summary": "Koen en Tineke van De Buurtpolitie praten tijdens hun koffiepauze over ditjes en datjes en mijmeren samen over hun gekste, grappigste of spannendste avonturen. "
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "257082369509527",
+                    "title": "De Buurtpolitie - Extra"
+                }
+            },
+            {
+                "id": "vitaya-20180819-C2F3",
+                "channel": "vitaya",
+                "start": {
+                    "display": "2018-08-19T05:55:00.000Z"
+                },
+                "stop": {
+                    "display": "2018-08-19T06:40:00.000Z"
+                },
+                "episode": {
+                    "id": "256893621297527",
+                    "title": "The Real Housewives of Dallas",
+                    "number": 3,
+                    "display": "3",
+                    "summary": "Aflevering 3 (jaargang 1) van de Amerikaanse realityreeks waarin we een blik werpen op het leven van LeeAnne Locken, Brandi Redmond, Tiffany Bolton, Cary Deuber en Stephanie Hollman. "
+                },
+                "season": {
+                    "number": 1,
+                    "display": "1"
+                },
+                "program": {
+                    "id": "256893421191527",
+                    "title": "The Real Housewives of Dallas"
                 }
             }
         ]
